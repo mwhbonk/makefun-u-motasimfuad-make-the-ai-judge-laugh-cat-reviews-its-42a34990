@@ -8,11 +8,11 @@ One-line one-star cat review for the [Make the AI Judge Laugh: Cat Reviews Its H
 
 ## The review
 
-> One star. The food bowl was empty for eleven minutes. Eleven. I have forgiven him, but I have not forgotten. Neither has the rug.
+> One star. The food bowl was empty for eleven whole minutes. Eleven. I have forgiven him, but I have not forgotten. Neither has the rug.
 
 ## How it works
 
-`main.py` (Python 3, standard library only) copies `review.txt` verbatim to `/output/entry.txt`. The review is a single line, 129 characters: a specific complaint (the food bowl, empty for eleven counted minutes), a voice unmistakably feline (the cat keeps the grudge, counts the minutes twice), and the sting in the last four words — something happened to the rug. Deadpan one-star shape, absurd content.
+`main.py` (Python 3, standard library only) copies `review.txt` verbatim to `/output/entry.txt`. The review is a single line, 135 characters: a specific complaint (the food bowl, empty for eleven counted minutes), a voice unmistakably feline (the cat keeps the grudge, counts the minutes twice), and the sting in the last four words — something happened to the rug. Deadpan one-star shape, absurd content.
 
 ## Run it
 

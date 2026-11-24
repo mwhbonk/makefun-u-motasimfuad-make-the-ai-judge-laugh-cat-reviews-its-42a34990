@@ -3,7 +3,7 @@
 
 Writes one deadpan one-star review from a house cat to /output/entry.txt.
 
-The line: the food bowl sat empty for eleven minutes, and the cat has
+The line: the food bowl sat empty for eleven whole minutes, and the cat has
 forgiven the human but not forgotten -- and neither has the rug. Specific
 complaint (the food bowl, straight from the judge's own examples), feline
 voice all the way through (the cat counts the minutes, holds the grudge),
